@@ -1,0 +1,42 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21000001",
+      "localizations": [],
+      "name": "Vertigo Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "21000002",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Trigger-frequency report and export for specialists",
+              "displayName": "Vertigo Log Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.vertigolog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Vertigo Log Pro Monthly",
+          "subscriptionGroupID": "21000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
